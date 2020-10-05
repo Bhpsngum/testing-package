@@ -1,7 +1,7 @@
 {
-  "name": "testing-package-for-me-only-lmao",
+  "name": "JSVariableConverter",
   "version": "1.0.0",
-  "description": "Nothing",
+  "description": "Convert strings to JS Variable Name",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bhpsngum/testing-package.git"
   },
-  "author": "B",
+  "author": "Bhpsngum",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bhpsngum/testing-package/issues"
