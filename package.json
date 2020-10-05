@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/bhpsngum/testing-package/issues"
   },
-  "homepage": "https://github.com/bhpsngum/testing-package#readme"
+  "homepage": "https://github.com/bhpsngum/testing-package#readme",
+  "dependencies": {}
 }
